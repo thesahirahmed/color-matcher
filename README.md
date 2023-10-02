@@ -50,7 +50,7 @@ For detailed instructions and documentation, please refer to our [Color Match Ga
 
 ## Credits
 
-The Color Match Game is created and maintained by [Your Name or Team Name]. Special thanks to open-source libraries and resources used in the development.
+The Color Match Game is created and maintained by Sahir Ahmed. Follow him on [Linkedin](https://www.linkedin.com/in/sahir-ahmed/)
 
 ## Version History
 
