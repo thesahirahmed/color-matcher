@@ -1,4 +1,4 @@
-# Color Match Game
+# Color Match Game v1
 
 Welcome to the Color Match Game repository! This simple and interactive web-based game challenges players to match a given color by adjusting the levels of red, green, and blue in a mixer.
 
