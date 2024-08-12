@@ -14,7 +14,7 @@ Welcome to the Color Match Game repository! This simple and interactive web-base
 - Hint button to provide hints for achieving the target color.
 - User-friendly interface with responsive design.
 
-## Getting Started
+## Getting Started:
 
 To play the Color Match Game, follow these steps:
 
